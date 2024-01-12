@@ -1,0 +1,5 @@
+PaddleOCR
+draw_ocr
+matplotlib
+os
+gradio
